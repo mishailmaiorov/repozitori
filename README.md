@@ -3,7 +3,6 @@
 Тут будут практические работы, конспекты.
 
 Навигация
--[Основы редактирования текста](/text.md)
--[Markdown](/MD.md)
--[Mermaid](/mermaid.md)
--[](/)
+<li>-[Основы редактирования текста](/text.md)</li>
+<li>-[Markdown](/MD.md)</li>
+<li>-[Mermaid](/mermaid.md)</li>
