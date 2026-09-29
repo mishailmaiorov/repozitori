@@ -7,3 +7,4 @@
 - [Основы редактирования текста](/text.md)
 - [Markdown](/MD.md)
 - [Mermaid](/mermaid.md)
+- [BushCli](/bash.md)
