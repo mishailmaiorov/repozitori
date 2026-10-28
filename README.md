@@ -12,4 +12,4 @@ Data
 - [Git](/Git.md)
 <p>Проекты</p>
 
-- [ii-site](https://github.com/mishailmaiorov/new_site.git)
+- [Ai-site](https://github.com/mishailmaiorov/new_site.git)
