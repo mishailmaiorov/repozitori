@@ -10,6 +10,7 @@ Data
 - [Bush-Linux](/bash.md)
 - [Bushscript](/bachscript.md)
 - [Git](/Git.md)
+- [Repozitori преподователя](https://github.com/rurewa/imfua.git)
 <p>Проекты</p>
 
 - [Ai-site](https://github.com/mishailmaiorov/new_site.git)
