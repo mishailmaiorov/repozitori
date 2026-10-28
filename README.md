@@ -12,4 +12,5 @@ Data
 - [Git](/Git.md)
 <p>Проекты</p>
 
-- [ii-site](/new_site/README.md)
+- [ii-site1](/new_site/README.md)
+- [ii-site](https://github.com/mishailmaiorov/new_site.git)
